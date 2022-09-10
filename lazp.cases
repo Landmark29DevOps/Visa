@@ -1,0 +1,5 @@
+echo "hello world" = shell script
+echo "first initializing" = shell script
+print "hello world" = python script
+print "yes or no" = java script
+
